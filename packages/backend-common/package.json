@@ -11,6 +11,9 @@
   "devDependencies": {
     "@repo/typescript-config": "workspace:*"
   },
+  "dependencies": {
+    "@types/node" : "^22.10.5"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

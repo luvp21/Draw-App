@@ -3,5 +3,6 @@
     {
       "mode": "auto"
     }
-  ]
+  ],
+  "C_Cpp.dimInactiveRegions": false
 }
